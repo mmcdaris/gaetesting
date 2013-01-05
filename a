@@ -1,0 +1,6 @@
+  * executing `invoke'
+  * executing "ls"
+    servers: ["50.19.58.6"]
+    [50.19.58.6] executing command
+ ** [out :: 50.19.58.6] gaetesting
+    command finished in 1502ms
